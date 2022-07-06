@@ -22,7 +22,7 @@ Text goes here!
 
 ###### Included work
 
-Text goes here!
+The C# Example shown in the class tutorial lesson, the test cases of that program, the lab task code & test cases used for testing that lab code
 
 ## Week 3 - Object-Oriented Programming
 

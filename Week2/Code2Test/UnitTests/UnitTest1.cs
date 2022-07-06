@@ -102,4 +102,20 @@ public class Tests
         Assert.That(Program.Greeting(time), Is.EqualTo(greeting));
     }
 
+    [TestCase(-69)]
+    [TestCase(-10)]
+    [TestCase(-3)]
+    public void GivenNegativeTime_ThrowArgumentOutOfRangeException(int time)
+    {
+        Assert.That(() => Program.Greeting(time), Throws.TypeOf<ArgumentOutOfRangeException>());
+    }
+
+    [TestCase(25)]
+    [TestCase(42)]
+    [TestCase(64)]
+    public void GivenATimeGreaterThan24_ThrowArgumentOutOfRangeException(int time)
+    {
+        Assert.That(() => Program.Greeting(time), Throws.TypeOf<ArgumentOutOfRangeException>());
+    }
+
 }

@@ -1,0 +1,12 @@
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/bin/Debug/net6.0/Op_CtrlFlow.deps.json
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/bin/Debug/net6.0/Op_CtrlFlow.dll
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/bin/Debug/net6.0/Op_CtrlFlow.pdb
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/Op_CtrlFlow.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/Op_CtrlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/Op_CtrlFlow.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/Op_CtrlFlow.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/Op_CtrlFlow.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/Op_CtrlFlow.dll
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/refint/Op_CtrlFlow.dll
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/Op_CtrlFlow.pdb
+/Users/dylancole/Engineering120DC/Week2/Operators_ControlFlow_Lab_Starter/Op_CtrlFlow_Lib/obj/Debug/net6.0/ref/Op_CtrlFlow.dll

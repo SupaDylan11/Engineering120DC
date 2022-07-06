@@ -14,7 +14,9 @@ public class Program
 
     public static string Greeting(int time)
     {
-        if (time >= 5 && time < 12)
+        if (time < 0 || time > 24)
+            throw new ArgumentOutOfRangeException($"{time} is out of range. Please type value between 0 & 24 Inclusive");
+        else if (time >= 5 && time < 12)
             return "Good Morning";
         else if (time >= 12 && time <= 18)
             return "Good Afternoon";
@@ -39,8 +41,8 @@ public class Program
     // for age classifications (not normally placed in same file)
     public static string AvailableClassifications(int ageOfViewer)
     {
-        if (ageOfViewer < 0)
-            return "INVALID AGE ERRORS!";
+        if (ageOfViewer < 0 || ageOfViewer > 150)
+            throw new ArgumentOutOfRangeException($"{ageOfViewer} is not within valid range. Please enter age between 0 & 150 Inclusive");
         else if (ageOfViewer < 12)
             return "U, PG & 12 films are available.";
         else if (ageOfViewer < 15)
@@ -57,8 +59,8 @@ public class Program
 
     public static string CorrectedClassifications(int ageOfViewer, bool withAdult)
     {
-        if (ageOfViewer < 0)
-            return "Invalid age given!";
+        if (ageOfViewer < 0 || ageOfViewer > 150)
+            throw new ArgumentOutOfRangeException($"{ageOfViewer} is not within valid range. Please enter age between 0 & 150 Inclusive");
         if (withAdult)
         {
             if (ageOfViewer < 15)
@@ -86,8 +88,8 @@ public class Program
     // exclusive which is EXACTLY THE SAME AS A 12 CERTIFICATE.
     public static string AltClassification(int ageOfViewer, bool withAdult)
     {
-        if (ageOfViewer < 0)
-            return "Invalid age given!";
+        if (ageOfViewer < 0 || ageOfViewer > 150)
+            throw new ArgumentOutOfRangeException($"{ageOfViewer} is not within valid range. Please enter age between 0 & 150 Inclusive");
         else if (ageOfViewer < 12)
         {
             if (withAdult)

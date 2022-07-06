@@ -1,0 +1,12 @@
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/bin/Debug/net6.0/TestFirstExercises_Lib.deps.json
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/bin/Debug/net6.0/TestFirstExercises_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/bin/Debug/net6.0/TestFirstExercises_Lib.pdb
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/TestFirstExercises_Lib.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/TestFirstExercises_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/TestFirstExercises_Lib.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/TestFirstExercises_Lib.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/TestFirstExercises_Lib.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/TestFirstExercises_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/refint/TestFirstExercises_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/TestFirstExercises_Lib.pdb
+/Users/dylancole/Engineering120DC/Week2/02b_TestFirstExercises/TestFirstExercises_Lib/obj/Debug/net6.0/ref/TestFirstExercises_Lib.dll

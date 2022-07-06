@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatersApp", "OperatersApp\OperatersApp.csproj", "{8D4571F7-D810-4452-9273-9EC49E801F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsTest", "LoopsTest\LoopsTest.csproj", "{0A739373-C880-46B9-8F99-E45CDBC1C410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4571F7-D810-4452-9273-9EC49E801F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4571F7-D810-4452-9273-9EC49E801F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4571F7-D810-4452-9273-9EC49E801F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4571F7-D810-4452-9273-9EC49E801F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A739373-C880-46B9-8F99-E45CDBC1C410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A739373-C880-46B9-8F99-E45CDBC1C410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A739373-C880-46B9-8F99-E45CDBC1C410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A739373-C880-46B9-8F99-E45CDBC1C410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799F29D2-2D42-4713-880B-9C7CE31F80FC}
+	EndGlobalSection
+EndGlobal

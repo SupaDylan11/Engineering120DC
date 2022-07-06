@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{B3D6AFCC-C2C5-49A2-BAAD-0F5A53906FC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestFirstExercises_Tests/02_SumEvenFiveTests.cs">
+    <Files>
+      <File FileName="TestFirstExercises_Lib/Methods.cs" Line="31" Column="44" />
+      <File FileName="TestFirstExercises_Tests/01_OperatorTests.cs" Line="1" Column="1" />
+      <File FileName="TestFirstExercises_Tests/02_SumEvenFiveTests.cs" Line="39" Column="10" />
+      <File FileName="TestFirstExercises_Tests/03_CheckInputTests.cs" Line="20" Column="30" />
+      <File FileName="TestFirstExercises_Tests/04_SumListTests.cs" Line="23" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestFirstExercises" expanded="True">
+            <Node name="TestFirstExercises_Lib" expanded="True" />
+            <Node name="TestFirstExercises_Tests" expanded="True">
+              <Node name="02_SumEvenFiveTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestFirstExercises" expanded="True">
+            <Node name="TestFirstExercises_Tests" expanded="True">
+              <Node name="TestFirstExercises_Tests" expanded="True">
+                <Node name="SumEvenFiveTests" expanded="True">
+                  <Node name="GivenFirst5MultipleOfTwos_ReturnExpectedResult(8,25)" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestFirstExercises__Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/bin/Debug/net6.0/WeightApp
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/bin/Debug/net6.0/WeightApp.deps.json
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/bin/Debug/net6.0/WeightApp.runtimeconfig.json
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/bin/Debug/net6.0/WeightApp.dll
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/bin/Debug/net6.0/WeightApp.pdb
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.dll
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/refint/WeightApp.dll
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.pdb
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/WeightApp.genruntimeconfig.cache
+/Users/dylancole/Engineering120DC/Week2/WeightApp/WeightApp/obj/Debug/net6.0/ref/WeightApp.dll

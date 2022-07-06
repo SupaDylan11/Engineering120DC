@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Op_CtrlFlow_Lib/Exercises.cs">
+    <Files>
+      <File FileName="Op_CtrlFlow_Lib/Exercises.cs" Line="15" Column="63" />
+      <File FileName="Op_CtrlFlow_Tests/Exercises_Tests.cs" Line="40" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Op_CtrlFlow_Lab" expanded="True">
+            <Node name="Op_CtrlFlow" expanded="True">
+              <Node name="Exercises.cs" selected="True" />
+            </Node>
+            <Node name="Op_CtrlFlow_Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Op_CtrlFlow_Lab" expanded="True">
+            <Node name="Op_CtrlFlow_Tests" expanded="True">
+              <Node name="Op_CtrlFlow_Tests" expanded="True">
+                <Node name="Exercises_Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

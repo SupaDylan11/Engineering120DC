@@ -44,6 +44,26 @@ namespace UnitTests
             Assert.That(Program.AltClassification(age, withAdult),
                 Is.EqualTo(expectedResult));
         }
+
+        //note that we do not check for expected result or change boolean withAdult, as it is NOT required here
+
+        [TestCase(151)]
+        [TestCase(420)]
+        [TestCase(9001)]
+        public void GivenAgeGreaterThan150_ThrowArgumentOutOfRangeException(int age)
+        {
+            Assert.That(() => Program.AltClassification(age, true),
+                Throws.TypeOf<ArgumentOutOfRangeException>());
+        }
+
+        [TestCase(-10)]
+        [TestCase(-939)]
+        [TestCase(-69)]
+        public void GivenNegativeAge_ThrowArgumentOutOfRangeException(int age)
+        {
+            Assert.That(() => Program.AltClassification(age, true),
+                Throws.TypeOf<ArgumentOutOfRangeException>());
+        }
     }
 }
 
