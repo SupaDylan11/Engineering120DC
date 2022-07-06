@@ -28,7 +28,7 @@ namespace Op_CtrlFlow
         public static double Average(List<int> nums)
         {
             if (nums.Count == 0)
-                return 0;
+                throw new NullReferenceException("The List passed is EMPTY!");
 
             double total = 0;
             foreach (int i in nums)
@@ -45,7 +45,9 @@ namespace Op_CtrlFlow
 
         public static string TicketType(int age)
         {
-            if (age < 5)
+            if (age < 0)
+                throw new ArgumentOutOfRangeException($"{age} is invalid. Please type positive value only");
+            else if (age < 5)
                 return "Free";
             else if (age >= 5 && age <= 12)
                 return "Child";
@@ -59,6 +61,8 @@ namespace Op_CtrlFlow
 
         public static string TicketTypeRefactored(int age)
         {
+            if (age < 0)
+                throw new ArgumentOutOfRangeException($"{age} is invalid. Please type positive value only");
             return age >= 18 ?
                 (age >= 60 ? "OAP" : "Standard") :
                 (age <= 12 ? (age < 5 ? "Free" : "Child") : "Student");
@@ -82,7 +86,7 @@ namespace Op_CtrlFlow
                         if (mark >= 75)
                         {
                             if (mark > 100)
-                                return "ERROR, out of range";
+                                throw new ArgumentOutOfRangeException($"Mark: {mark} is not valid. Please enter a mark between 0 & 100");
                             return "Pass with Distinction";
                         }
                         return "Pass with Merit";
@@ -91,11 +95,14 @@ namespace Op_CtrlFlow
                 }
                 return "Fail";
             }
-            return "ERROR, out of range";
+            throw new ArgumentOutOfRangeException($"Mark: {mark} is not valid. Please enter a mark between 0 & 100");
         }
+
 
         public static int GetScottishMaxWeddingNumbers(int covidLevel)
         {
+            if (covidLevel < 0 || covidLevel > 4)
+                throw new ArgumentOutOfRangeException($"Invalid {covidLevel} Covid level. Please enter correct plandemic alert level!");
             int maxAttendees = 0;
             switch (covidLevel)
             {

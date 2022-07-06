@@ -24,14 +24,14 @@ public class UnitTest1
     }
 
     [Test]
-    public void GivenANegativeValue_Return_ZeroStone()
+    public void GivenANegativeValue_ForGetStones_ThrowArgumentOutOfRangeException()
     {
-        Assert.That(Methods.GetStones(-2), Is.EqualTo(0));
+        Assert.That(() => Methods.GetStones(-5), Throws.TypeOf<ArgumentOutOfRangeException>());
     }
 
     [Test]
-    public void GivenANegativeValue_Return_ZeroPound()
+    public void GivenANegativeValue_ForGetPounds_ThrowArgumentOutOfRangeException()
     {
-        Assert.That(Methods.GetPounds(-2), Is.EqualTo(0));
+        Assert.That(() => Methods.GetPounds(-5), Throws.TypeOf<ArgumentOutOfRangeException>());
     }
 }

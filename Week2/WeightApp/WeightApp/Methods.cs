@@ -28,7 +28,7 @@ public class Methods
     public static int GetStones(int pounds)
     {
         if (pounds <= 0)
-            return 0;
+            throw new ArgumentOutOfRangeException($"{pounds} is not valid, please enter positive value");
         else
             return pounds / 14;
     }
@@ -36,7 +36,7 @@ public class Methods
     public static int GetPounds(int pounds)
     {
         if(pounds <= 0)
-            return 0;
+            throw new ArgumentOutOfRangeException($"{pounds} is not valid, please enter positive value");
         else
             return pounds % 14;
     }

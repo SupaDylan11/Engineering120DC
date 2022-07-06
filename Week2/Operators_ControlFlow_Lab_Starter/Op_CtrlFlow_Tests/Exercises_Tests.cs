@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using Op_CtrlFlow;
+using System;
 using System.Collections.Generic;
 
 namespace Op_CtrlFlow_Tests
@@ -48,10 +49,10 @@ namespace Op_CtrlFlow_Tests
         }
 
         [Test]
-        public void WhenListIsEmpty_Average_ReturnsZero()
+        public void WhenListIsEmpty_ThrowsNullReferenceException()
         {
             var myList = new List<int>() {};
-            Assert.That(Exercises.Average(myList), Is.EqualTo(0));
+            Assert.That(() => Exercises.Average(myList), Throws.TypeOf<NullReferenceException>());
         }
 
         [TestCase(100, "OAP")]
@@ -145,10 +146,19 @@ namespace Op_CtrlFlow_Tests
         [TestCase(-23)]
         [TestCase(101)]
         [TestCase(200)]
-        public void GivenAnOutOfRangeMark_Result_ReturnErrorMessage(int mark)
+        public void GivenAnOutOfRangeMark_ThrowsArgumentOutOfRangeException(int mark)
         {
-            var result = Exercises.Grade(mark);
-            Assert.That(result, Is.EqualTo("ERROR, out of range"));
+            Assert.That(() => Exercises.Grade(mark), Throws.TypeOf<ArgumentOutOfRangeException>());
+        }
+
+        [TestCase(-1)]
+        [TestCase(-2)]
+        [TestCase(5)]
+        [TestCase(69)]
+        public void GivenAnOutOfRangeConvidLevel_ThrowsArgumentOutOfRangeException(int covidLevel)
+        {
+            Assert.That(() => Exercises.GetScottishMaxWeddingNumbers(covidLevel),
+                Throws.TypeOf<ArgumentOutOfRangeException>());
         }
     }
 }
