@@ -1,0 +1,12 @@
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/bin/Debug/net6.0/DataTypes_Lib.deps.json
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/bin/Debug/net6.0/DataTypes_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/bin/Debug/net6.0/DataTypes_Lib.pdb
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/DataTypes_Lib.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/DataTypes_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/DataTypes_Lib.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/DataTypes_Lib.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/DataTypes_Lib.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/DataTypes_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/refint/DataTypes_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/DataTypes_Lib.pdb
+/Users/dylancole/Engineering120DC/Week2/DataTypes/DataTypes_Lab_Starter/DataTypes_Lib/obj/Debug/net6.0/ref/DataTypes_Lib.dll
