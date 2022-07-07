@@ -1,0 +1,15 @@
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/bin/Debug/net6.0/MoreDataTypesApp
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/bin/Debug/net6.0/MoreDataTypesApp.deps.json
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/bin/Debug/net6.0/MoreDataTypesApp.runtimeconfig.json
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/bin/Debug/net6.0/MoreDataTypesApp.dll
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/bin/Debug/net6.0/MoreDataTypesApp.pdb
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.dll
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/refint/MoreDataTypesApp.dll
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.pdb
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/MoreDataTypesApp.genruntimeconfig.cache
+/Users/dylancole/Engineering120DC/Week2/MoreDataTypesApp/MoreDataTypesApp/obj/Debug/net6.0/ref/MoreDataTypesApp.dll

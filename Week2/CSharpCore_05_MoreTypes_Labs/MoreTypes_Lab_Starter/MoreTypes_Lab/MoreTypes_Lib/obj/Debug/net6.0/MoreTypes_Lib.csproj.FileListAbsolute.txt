@@ -1,0 +1,12 @@
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/MoreTypes_Lib.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/MoreTypes_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/MoreTypes_Lib.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/MoreTypes_Lib.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/MoreTypes_Lib.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/bin/Debug/net6.0/MoreTypes_Lib.deps.json
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/bin/Debug/net6.0/MoreTypes_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/bin/Debug/net6.0/MoreTypes_Lib.pdb
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/MoreTypes_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/refint/MoreTypes_Lib.dll
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/MoreTypes_Lib.pdb
+/Users/dylancole/Engineering120DC/Week2/CSharpCore_05_MoreTypes_Labs/MoreTypes_Lab_Starter/MoreTypes_Lab/MoreTypes_Lib/obj/Debug/net6.0/ref/MoreTypes_Lib.dll
