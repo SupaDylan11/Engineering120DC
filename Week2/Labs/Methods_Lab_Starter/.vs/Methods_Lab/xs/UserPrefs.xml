@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{1B6821FE-C656-4D8D-9A83-FF94169061F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Methods_Tests/DiceTests.cs">
+    <Files>
+      <File FileName="Methods_Lib/Methods.cs" Line="19" Column="55" />
+      <File FileName="Methods_Tests/TuplesTests.cs" Line="39" Column="49" />
+      <File FileName="Methods_Tests/DiceTests.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Methods_Lab" expanded="True">
+            <Node name="Methods_Lib" expanded="True" />
+            <Node name="Methods_Tests" expanded="True">
+              <Node name="DiceTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Methods_Lab" expanded="True">
+            <Node name="Methods_Tests" expanded="True">
+              <Node name="Methods_Tests" expanded="True">
+                <Node name="TuplesTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Methods__Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

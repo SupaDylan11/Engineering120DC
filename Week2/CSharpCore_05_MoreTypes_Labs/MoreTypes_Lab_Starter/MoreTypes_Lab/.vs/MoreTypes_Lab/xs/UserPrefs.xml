@@ -1,7 +1,5 @@
 ﻿<Properties StartupConfiguration="{CF5F9F89-CAD6-4B34-969C-2C1926E531D6}|Default">
-  <MonoDevelop.Ide.ItemProperties.MoreTypes__Tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MoreTypes_Lib/StringExercises.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoreTypes_Lib/DateTimeEnumsExercises.cs">
     <Files>
       <File FileName="MoreTypes_Lib/StringExercises.cs" Line="24" Column="53" />
       <File FileName="MoreTypes_Tests/StringExercises_Tests.cs" Line="45" Column="40" />
@@ -15,7 +13,7 @@
         <State name="__root__">
           <Node name="MoreTypes_Lab" expanded="True">
             <Node name="MoreTypes_Lib" expanded="True">
-              <Node name="StringExercises.cs" selected="True" />
+              <Node name="DateTimeEnumsExercises.cs" selected="True" />
             </Node>
             <Node name="MoreTypes_Tests" expanded="True" />
           </Node>
@@ -26,12 +24,10 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="MoreTypes_Lab" expanded="True">
+          <Node name="MoreTypes_Lab" expanded="True" selected="True">
             <Node name="MoreTypes_Tests" expanded="True">
               <Node name="MoreTypes_Tests" expanded="True">
-                <Node name="ArrayExercises_Tests" expanded="True" />
                 <Node name="DateTimeEnumsExercises_Tests" expanded="True" />
-                <Node name="StringExercises_Tests" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -39,9 +35,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MoreTypes__Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

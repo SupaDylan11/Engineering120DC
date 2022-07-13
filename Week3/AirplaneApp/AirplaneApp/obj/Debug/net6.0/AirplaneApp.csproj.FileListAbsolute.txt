@@ -1,0 +1,15 @@
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/bin/Debug/net6.0/AirplaneApp
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/bin/Debug/net6.0/AirplaneApp.deps.json
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/bin/Debug/net6.0/AirplaneApp.runtimeconfig.json
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/bin/Debug/net6.0/AirplaneApp.dll
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/bin/Debug/net6.0/AirplaneApp.pdb
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.dll
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/refint/AirplaneApp.dll
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.pdb
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/AirplaneApp.genruntimeconfig.cache
+/Users/dylancole/Engineering120DC/Week3/AirplaneApp/AirplaneApp/obj/Debug/net6.0/ref/AirplaneApp.dll
