@@ -1,0 +1,12 @@
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/bin/Debug/net6.0/Collections_Lib.deps.json
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/bin/Debug/net6.0/Collections_Lib.dll
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/bin/Debug/net6.0/Collections_Lib.pdb
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.dll
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/refint/Collections_Lib.dll
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.pdb
+/Users/dylancole/Engineering120DC/Week3/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/ref/Collections_Lib.dll

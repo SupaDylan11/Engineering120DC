@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dylancole/Engineering120DC/Week3/AdvancedNUnit_Starter/AdvancedNUnit/AdvancedNUnit.csproj": {}
+  },
+  "projects": {
+    "/Users/dylancole/Engineering120DC/Week3/AdvancedNUnit_Starter/AdvancedNUnit/AdvancedNUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dylancole/Engineering120DC/Week3/AdvancedNUnit_Starter/AdvancedNUnit/AdvancedNUnit.csproj",
+        "projectName": "AdvancedNUnit",
+        "projectPath": "/Users/dylancole/Engineering120DC/Week3/AdvancedNUnit_Starter/AdvancedNUnit/AdvancedNUnit.csproj",
+        "packagesPath": "/Users/dylancole/.nuget/packages/",
+        "outputPath": "/Users/dylancole/Engineering120DC/Week3/AdvancedNUnit_Starter/AdvancedNUnit/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dylancole/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "ReportGenerator": {
+              "target": "Package",
+              "version": "[5.1.9, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
