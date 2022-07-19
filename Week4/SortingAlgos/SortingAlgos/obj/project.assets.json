@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dylancole/Projects/SortingAlgos/SortingAlgos/SortingAlgos.csproj",
+      "projectUniqueName": "/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/SortingAlgos.csproj",
       "projectName": "SortingAlgos",
-      "projectPath": "/Users/dylancole/Projects/SortingAlgos/SortingAlgos/SortingAlgos.csproj",
+      "projectPath": "/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/SortingAlgos.csproj",
       "packagesPath": "/Users/dylancole/.nuget/packages/",
-      "outputPath": "/Users/dylancole/Projects/SortingAlgos/SortingAlgos/obj/",
+      "outputPath": "/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dylancole/.nuget/NuGet/NuGet.Config"
