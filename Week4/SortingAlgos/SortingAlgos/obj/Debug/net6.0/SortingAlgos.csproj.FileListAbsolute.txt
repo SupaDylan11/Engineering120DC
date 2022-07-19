@@ -1,0 +1,12 @@
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/bin/Debug/net6.0/SortingAlgos.deps.json
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/bin/Debug/net6.0/SortingAlgos.dll
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/bin/Debug/net6.0/SortingAlgos.pdb
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.dll
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/refint/SortingAlgos.dll
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.pdb
+/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/ref/SortingAlgos.dll
