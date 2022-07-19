@@ -4,9 +4,15 @@ using System.Collections.Generic;
 
 namespace AdvancedNUnit
 {
+    [TestFixture]
     public class PalindromeTests
     {
-        
+        [OneTimeSetUp]
+        public void OneTimeSetUp()
+        {
+
+        }
+
         [SetUp]
         public void Setup() { }
 
@@ -38,7 +44,6 @@ namespace AdvancedNUnit
         {
             Assert.That(() => Palindrome.IsItPalendrome(""), Throws.TypeOf<ArgumentException>());
         }
-        
     }
 }
 

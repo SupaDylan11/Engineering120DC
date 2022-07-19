@@ -1,0 +1,15 @@
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.csproj.AssemblyReference.cache
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.AssemblyInfoInputs.cache
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.AssemblyInfo.cs
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.csproj.CoreCompileInputs.cache
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/bin/Debug/net6.0/StringCalculator
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/bin/Debug/net6.0/StringCalculator.deps.json
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/bin/Debug/net6.0/StringCalculator.runtimeconfig.json
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/bin/Debug/net6.0/StringCalculator.dll
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/bin/Debug/net6.0/StringCalculator.pdb
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.dll
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/refint/StringCalculator.dll
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.pdb
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/StringCalculator.genruntimeconfig.cache
+/Users/dylancole/Engineering120DC/Week3/StringCalculator/StringCalculator/obj/Debug/net6.0/ref/StringCalculator.dll

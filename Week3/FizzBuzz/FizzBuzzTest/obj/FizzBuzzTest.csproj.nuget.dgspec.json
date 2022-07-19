@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzTest/FizzBuzzTest.csproj": {}
+  },
+  "projects": {
+    "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzApp/FizzBuzzApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzApp/FizzBuzzApp.csproj",
+        "projectName": "FizzBuzzApp",
+        "projectPath": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzApp/FizzBuzzApp.csproj",
+        "packagesPath": "/Users/dylancole/.nuget/packages/",
+        "outputPath": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dylancole/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.15.2, )"
+            },
+            "NUnit.Extension.NUnitProjectLoader": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzTest/FizzBuzzTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzTest/FizzBuzzTest.csproj",
+        "projectName": "FizzBuzzTest",
+        "projectPath": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzTest/FizzBuzzTest.csproj",
+        "packagesPath": "/Users/dylancole/.nuget/packages/",
+        "outputPath": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dylancole/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzApp/FizzBuzzApp.csproj": {
+                "projectPath": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzApp/FizzBuzzApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

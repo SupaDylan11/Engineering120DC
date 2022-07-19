@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ME7cEJutgiWCQvUSQQh7iPYExe8OAQDhOjC2ZzeUWNw7B8T6bB8sH2B/4JLzbu7ck02rerXz6Ycw5xGZPtfdDw==",
+  "success": true,
+  "projectFilePath": "/Users/dylancole/Engineering120DC/Week3/FizzBuzz/FizzBuzzApp/FizzBuzzApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/dylancole/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dylancole/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/dylancole/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/dylancole/.nuget/packages/nunit.consolerunner/3.15.2/nunit.consolerunner.3.15.2.nupkg.sha512",
+    "/Users/dylancole/.nuget/packages/nunit.extension.nunitprojectloader/3.7.1/nunit.extension.nunitprojectloader.3.7.1.nupkg.sha512",
+    "/Users/dylancole/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
