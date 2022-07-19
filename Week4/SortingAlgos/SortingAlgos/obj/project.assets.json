@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/dylancole/.nuget/packages/": {}
+    "C:\\Users\\punka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/SortingAlgos.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Data\\Career\\Sparta Global\\SupaDylan11\\Engineering120DC\\Week4\\SortingAlgos\\SortingAlgos\\SortingAlgos.csproj",
       "projectName": "SortingAlgos",
-      "projectPath": "/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/SortingAlgos.csproj",
-      "packagesPath": "/Users/dylancole/.nuget/packages/",
-      "outputPath": "/Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/",
+      "projectPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\SupaDylan11\\Engineering120DC\\Week4\\SortingAlgos\\SortingAlgos\\SortingAlgos.csproj",
+      "packagesPath": "C:\\Users\\punka\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\SupaDylan11\\Engineering120DC\\Week4\\SortingAlgos\\SortingAlgos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dylancole/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\punka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,3 +10,15 @@
 /Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/refint/SortingAlgos.dll
 /Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/SortingAlgos.pdb
 /Users/dylancole/Engineering120DC/Week4/SortingAlgos/SortingAlgos/obj/Debug/net6.0/ref/SortingAlgos.dll
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\bin\Debug\net6.0\SortingAlgos.deps.json
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\bin\Debug\net6.0\SortingAlgos.dll
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\bin\Debug\net6.0\SortingAlgos.pdb
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\SortingAlgos.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\SortingAlgos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\SortingAlgos.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\SortingAlgos.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\SortingAlgos.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\SortingAlgos.dll
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\refint\SortingAlgos.dll
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\SortingAlgos.pdb
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\SortingAlgos\SortingAlgos\obj\Debug\net6.0\ref\SortingAlgos.dll
