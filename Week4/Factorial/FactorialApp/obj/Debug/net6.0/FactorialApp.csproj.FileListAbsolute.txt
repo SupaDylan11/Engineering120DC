@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\bin\Debug\net6.0\FactorialApp.exe
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\bin\Debug\net6.0\FactorialApp.deps.json
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\bin\Debug\net6.0\FactorialApp.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\bin\Debug\net6.0\FactorialApp.dll
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\bin\Debug\net6.0\FactorialApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.dll
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\refint\FactorialApp.dll
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\FactorialApp.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\SupaDylan11\Engineering120DC\Week4\Factorial\FactorialApp\obj\Debug\net6.0\ref\FactorialApp.dll
