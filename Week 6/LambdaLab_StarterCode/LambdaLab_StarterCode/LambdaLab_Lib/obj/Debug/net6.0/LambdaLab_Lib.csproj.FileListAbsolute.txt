@@ -1,0 +1,12 @@
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\bin\Debug\net6.0\LambdaLab_Lib.deps.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\bin\Debug\net6.0\LambdaLab_Lib.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\bin\Debug\net6.0\LambdaLab_Lib.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.csproj.AssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.AssemblyInfo.cs
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\refint\LambdaLab_Lib.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\ref\LambdaLab_Lib.dll

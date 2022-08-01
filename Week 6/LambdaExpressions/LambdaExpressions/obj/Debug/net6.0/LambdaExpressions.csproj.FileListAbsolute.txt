@@ -1,0 +1,15 @@
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.exe
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.deps.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.runtimeconfig.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\refint\LambdaExpressions.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.genruntimeconfig.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\ref\LambdaExpressions.dll
