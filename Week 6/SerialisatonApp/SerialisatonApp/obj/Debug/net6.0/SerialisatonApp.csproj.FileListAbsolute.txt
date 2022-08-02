@@ -1,0 +1,15 @@
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\bin\Debug\net6.0\SerialisatonApp.exe
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\bin\Debug\net6.0\SerialisatonApp.deps.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\bin\Debug\net6.0\SerialisatonApp.runtimeconfig.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\bin\Debug\net6.0\SerialisatonApp.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\bin\Debug\net6.0\SerialisatonApp.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.csproj.AssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.AssemblyInfo.cs
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\refint\SerialisatonApp.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\SerialisatonApp.genruntimeconfig.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\SerialisatonApp\SerialisatonApp\obj\Debug\net6.0\ref\SerialisatonApp.dll

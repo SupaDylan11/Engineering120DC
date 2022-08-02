@@ -35,7 +35,7 @@ namespace LambdaLab_Lib
             return spartans.OrderBy(x => x.LastName).ToList();
         }
 
-        public static List<string> ListAllDistinctCities(List<Spartan> spartans)
+        public static List<string?> ListAllDistinctCities(List<Spartan> spartans)
         {
             //return spartans.DistinctBy(x => x.City).ToList();
             return spartans.Select(x => x.City).Distinct().ToList();

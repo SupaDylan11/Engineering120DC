@@ -1,0 +1,15 @@
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.exe
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.deps.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.runtimeconfig.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.csproj.AssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.AssemblyInfo.cs
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\refint\AysncCake.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.genruntimeconfig.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\ref\AysncCake.dll
