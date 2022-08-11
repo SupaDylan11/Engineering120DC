@@ -1,0 +1,12 @@
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\bin\Debug\net6.0\NorthwindData.deps.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.AssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\NorthwindData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfo.cs
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\NorthwindData.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\refint\NorthwindData.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\NorthwindData.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindData\obj\Debug\net6.0\ref\NorthwindData.dll

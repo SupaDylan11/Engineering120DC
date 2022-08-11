@@ -1,0 +1,15 @@
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.deps.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.AssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.AssemblyInfo.cs
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.CopyComplete
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\refint\NorthwindBusiness.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week7\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\ref\NorthwindBusiness.dll

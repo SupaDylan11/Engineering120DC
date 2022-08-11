@@ -1,0 +1,12 @@
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.AssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+C:\Users\dylan\Documents\GitHub\Engineering120DC\Week 6\BDDCalculator\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll
